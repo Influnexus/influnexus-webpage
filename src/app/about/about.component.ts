@@ -20,8 +20,8 @@ export class AboutComponent implements OnInit {
 
   // Mock data for services
   services = [
-    { title: 'Video Editing' ,imgPath:'https://d13kjxnqnhcmn2.cloudfront.net/AcuCustom/Sitename/DAM/071/Video_editing_-_Main.jpg', description: 'Elevate your content with professional video editing for a polished and engaging outcome.' },
-    { title: 'Reels Editing' ,imgPath:'https://plugins-media.makeupar.com/smb/blog/post/2022-04-27/9839f784-3452-4e59-acc1-b929e3a4582f.jpg', description: 'Boost your social media presence with attention-grabbing reels crafted for various platforms.' },
+    { title: 'Video Production' ,imgPath:'https://d13kjxnqnhcmn2.cloudfront.net/AcuCustom/Sitename/DAM/071/Video_editing_-_Main.jpg', description: 'Elevate your content with professional video editing for a polished and engaging outcome.' },
+    { title: 'CGI and 3D Animations' ,imgPath:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UaL4J4VWQ0Jbr7AAPYw_5XWBSz7Cd7bEDA&s', description: 'Boost your social media presence with attention-grabbing reels crafted for various platforms.' },
     { title: 'Graphic Design' ,imgPath:'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/255646104/original/d46bfa1193bcc22d1cf9cccc3286f05a90b1c9e9/do-highend-graphic-design-redesign-vector-tracing-and-nft-art.png', description: 'Bring ideas to life with stunning designs, from posters to social media graphics.' },
     { title: 'Animation Design' ,imgPath:'https://bollywoodcloseup.files.wordpress.com/2013/12/mahabharat-3d.png', description: ' Add a dynamic touch to projects with impactful animations.' },
     { title: 'Motion Graphics' ,imgPath:'https://www.animation299.com/img/motion1.gif', description: 'Enhance visuals with dynamic motion graphics seamlessly integrated into projects.' },
